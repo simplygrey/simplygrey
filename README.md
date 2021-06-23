@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @simplygrey
+- 👀 I’m interested in storytelling and writing & translating tools
+- 🌱 I’m currently learning Swift
+- 💞️ I’m looking to collaborate on writing & translating tools
+- 📫 How to reach me: grey@simplygrey.com
